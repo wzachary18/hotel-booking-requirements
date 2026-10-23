@@ -1,6 +1,8 @@
 # 酒店预订系统需求规格说明
 
-## 需求清单
+仓库地址：https://github.com/wzachary18/hotel-booking-requirements
+
+版本：lab1-final　日期：2026-10-23
 
 ## REQ-001 角色权限与酒店数据隔离
 - 类型：功能需求需求
